@@ -1,4 +1,5 @@
-# Tensorboard_demo
+# Tensorboard_demo_tf_v_1.1.0
+This is a forked verion of this demo: https://github.com/llSourcell/Tensorboard_demo, updated for TensorFlow v 1.1.0
 Tensorboard Demo by @Sirajology on Youtube
 
 This is the code for the Tensorboard Video by @Sirajology on [Youtube](https://youtu.be/3bownM3L5zM). In this repo, there are 2 versions of the classifier, a simple one and a complex one. Input_data.py retrieves and formats the [MNIST character dataset](http://yann.lecun.com/exdb/mnist/).
